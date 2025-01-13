@@ -5,10 +5,10 @@
   --overlay-color: #2e2f42cc;
   --white: #ffffff;
   --dark: #000;
+  --gr-cl: #808080;
+  --dark: #000;
   --main-cl: #4e75ff;
   --accent-cl: #6c8cff;
-  --text-cl: #2e2f42;
-  --border-cl: #808080;
 }
 
 body {
